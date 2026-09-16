@@ -1,0 +1,8 @@
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\ConsoleExample.exe
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\ConsoleExample.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\ConsoleExample.deps.json
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\ConsoleExample.runtimeconfig.json
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\ConsoleExample.pdb
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\BouncyCastle.Cryptography.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\FrostAuth.Sdk.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-console\FrostAuth.Sdk.pdb

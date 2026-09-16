@@ -1,0 +1,8 @@
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\WinFormsExample.exe
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\WinFormsExample.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\WinFormsExample.deps.json
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\WinFormsExample.runtimeconfig.json
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\WinFormsExample.pdb
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\BouncyCastle.Cryptography.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\FrostAuth.Sdk.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\publish-winforms\FrostAuth.Sdk.pdb

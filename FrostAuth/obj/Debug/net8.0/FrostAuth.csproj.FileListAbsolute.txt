@@ -1,0 +1,12 @@
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.csproj.AssemblyReference.cache
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.AssemblyInfoInputs.cache
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.AssemblyInfo.cs
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.csproj.CoreCompileInputs.cache
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\bin\Debug\net8.0\FrostAuth.Sdk.deps.json
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\bin\Debug\net8.0\FrostAuth.Sdk.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\bin\Debug\net8.0\FrostAuth.Sdk.pdb
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.Sdk.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\refint\FrostAuth.Sdk.dll
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\FrostAuth.Sdk.pdb
+C:\Users\redee\Desktop\Cerberus-Prod-Canary\sdk\langs\csharp\FrostAuth\obj\Debug\net8.0\ref\FrostAuth.Sdk.dll
