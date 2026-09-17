@@ -1,8 +1,8 @@
-# FrostAuth-CSHARP-Example 🌟
+# FrostAuth-CSHARP-Example
 
 FrostAuth C# example SDK for https://www.frostauth.cc license key API auth.
 
-This example ships the SDK source directly — the `FrostAuth` project
+This example ships the SDK source directly the `FrostAuth` project
 (`FrostAuthClient.cs` + `FrostAuthError.cs`). Reference it from your app (or
 `dotnet pack` it), mirror `ConsoleExample/Program.cs`, and you're integrated.
 One NuGet dep: `BouncyCastle.Cryptography` (auto-restored). The
@@ -22,14 +22,14 @@ build steps below don't make sense yet, learn some C# first
 ## Security practices
 
 * Ship releases through an obfuscator/protector (.NET reactor, VMProtect on the
-host) and put license checks behind their markers — plain IL decompiles in
+host) and put license checks behind their markers, plain IL decompiles in
 seconds (dnSpy). Consider AOT/native publish for the loader.
 * Run frequent integrity checks so patched memory kills the session instead of
 granting access.
 * Never write a downloaded file to disk if you don't want the user to have it.
 Execute in memory and wipe the buffer the moment you're done.
 * Treat every client answer as advisory. The server re-checks the license on
-each call — don't add a local `IsValid` boolean that bypasses it.
+each call and don't add a local `IsValid` boolean that bypasses it.
 
 FrostAuth signs every response and pins the server key, but no API survives a
 client that trusts itself. Obfuscation + integrity checks stop tampering; the
@@ -47,7 +47,7 @@ enforcement it performs.
 * You may not remove or obscure any licensing, copyright, or attribution
 notices in the SDK files.
 
-Thank you for your compliance — this SDK is a large body of work, and keeping
+Thank you for your compliance. This SDK is a large body of work, and keeping
 the notices intact is what keeps it free.
 
 ## What is FrostAuth?
@@ -85,7 +85,7 @@ into [`ConsoleExample/Program.cs`](ConsoleExample/Program.cs):
 
 ```csharp
 var app = FrostAuthClient.Create(new FrostAuthClient.Options {
-    Owner = "YOUR-OWNER-ID",    // dashboard → product → owner id
+    Owner = "YOUR-OWNER-ID",    // dashboard → owner id
     Product = "YOUR-PRODUCT-ID",// dashboard → product → product id
     Version = "1.0.0",          // must match the version you ship
 });
